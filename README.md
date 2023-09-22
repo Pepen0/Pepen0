@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Penoelo Thibeaud</h1>
 <h3 align="center">A Computer Engineering student at Concordia</h3>
 
-- 🌱 I’m currently learning ** Data structures , Algorithm , Java and Arduino programming**
+- 🌱 I’m currently learning ** Software processes , Digital system design , computer organisation and software **
 
 - 📫 How to reach me **penoelothibeaud1@gmail.com**
 
