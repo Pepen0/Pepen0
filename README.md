@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **penoelothibeaud1@gmail.com**
 
-<h3 align="left"><a href="https://flowcv.me/penoelo-official">💼 My PortFolio</a></h3>
+-<a href="https://flowcv.me/penoelo-official">💼 My PortFolio</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
