@@ -54,7 +54,7 @@
     <img src="https://www.sqlite.org/images/sqlite370_banner.gif" alt="sqlite" width="40" height="40"/> 
   </a> 
   <a href="https://en.wikipedia.org/wiki/XML" target="_blank" rel="noreferrer"> 
-    <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.svgrepo.com%2Fsvg%2F255827%2Fxml&psig=AOvVaw04TeoSe78zH1Xnu_I68_fG&ust=1730401915813000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCOjr4s7ntokDFQAAAAAdAAAAABAE" alt="xml" width="40" height="40"/> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Extensible_Markup_Language_%28XML%29_logo.svg" alt="xml" width="40" height="40"/> 
   </a> 
 </p>
 
